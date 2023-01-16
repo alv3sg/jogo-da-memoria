@@ -10,12 +10,12 @@ body{
     align-items: center;
     height: 100vh;
     background-color: #c7cdd3;
+   
 }
 .card{
+    width: 120px;
+    height: 120px;
     position: relative;
-    width: 150px;
-    height: 150px;
-
     transform-style: preserve-3d;
     transition: transform .5s;
 }
@@ -74,6 +74,6 @@ body{
 #jogadas{
     border: 1px solid black;
     position: relative;
-    top: -450px;
-    left: -370px;
+    top: -48%;
+    left: -19%;
 }

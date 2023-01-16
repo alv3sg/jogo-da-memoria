@@ -2,6 +2,7 @@ const FRONT = "card_front"
 const BACK = "card_back"
 const CARD = "card"
 const ICON = "icon"
+
 let jogadas = document.getElementById("jogadas")
 let vezes = 0
 jogadas.innerHTML = "Jogada " + vezes
